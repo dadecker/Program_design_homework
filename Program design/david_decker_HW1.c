@@ -7,13 +7,12 @@ COP 3514
 #include <stdio.h>
 /*Purpose: The user will input 2 different fractions. 
 Each fraction will be input in the form of "a/b" where a and b are both 
-positive integers. For each fraction the program stores them in 2 integers 
-(numerator and denominator). The operations preformed are: 
+positive integers. For each fraction the program stores the numerator and denominator as integers. The operations preformed are: 
 addition, subtraction, multiplication, and division. This is followed by 
 a conditional statement to find out whether the first fraction is a improper 
 fraction or not. If it is an improper fraction, The program then prints that it is and prints 
 it as a mixed number, making sure if the fraction is 0/b after doing the mixed 
-number don't print the fraction part. Finally, we will ask the user for one 
+number, not print the fractional part. The user is asked for one 
 last integer for a GPA grade. With this integer you will use a switch statement 
 to print out what the letter grade would be.*/ 
 int main(void){
