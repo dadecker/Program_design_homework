@@ -1,6 +1,4 @@
 /*
-David Decker
-U03219590
 Homework 1
 COP 3514
 */
